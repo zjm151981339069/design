@@ -1,5 +1,9 @@
 package com.zjm.design.d3_singleton;
-
+/***
+ * 采用内部类加载过程中的执行方法
+ * @author Administrator
+ *
+ */
 public class SingletonClass {  
 
     /* 私有构造方法，防止被实例化 */  
