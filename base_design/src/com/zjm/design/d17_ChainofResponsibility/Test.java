@@ -1,7 +1,6 @@
 package com.zjm.design.d17_ChainofResponsibility;
 
 public class Test {  
-
     public static void main(String[] args) {  
         MyHandler h1 = new MyHandler("h1");  
         MyHandler h2 = new MyHandler("h2");  
